@@ -1,6 +1,7 @@
- function isLoggedIn() {
+function isLoggedIn() {
 	
-	return 'ADMIN';
+	return '';
+    
     // !!localStorage.getItem('roles')
 }
 export default isLoggedIn;
